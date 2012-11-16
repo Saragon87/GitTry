@@ -6,4 +6,4 @@ Created on 16.11.2012
 print 'ich kann nichst'
 print 'garnix sogar'
 print "schnaunh"
-
+SCHNAUTZE
